@@ -1,5 +1,5 @@
 Hello :)
 
-I am Ayush, and I code some random stuff.
+I am Ayush.
 
 vim user, btw.
