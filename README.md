@@ -1,5 +1,1 @@
-Hello :)
-
-I am Ayush.
-
-vim user, btw.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B56FC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ayush;A+design+student;And+a+hobbyist+programmer)](https://git.io/typing-svg)
